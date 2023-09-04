@@ -20,6 +20,10 @@
   scroll-behavior: smooth;
 }
 
+#contact{
+  background-color: var(--color-gray);
+}
+
 a {
   color: unset;
   text-decoration: none;
