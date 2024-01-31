@@ -12,6 +12,9 @@
     justify-content: flex-start;
     align-items: center;
 }
+.app__navbar-logo h1{
+    color: #fff;
+}
 
 .app__navbar-logo img{
     width: 150px;

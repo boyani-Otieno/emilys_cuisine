@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className="footer__copyright">
-      <p className="p__opensans">2023 Emily's Cuisine. All Rights reserved.</p>
+      <p className="p__opensans">2024 Emily's Cuisine. All Rights reserved.</p>
     </div>
 
   </div>

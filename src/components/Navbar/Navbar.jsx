@@ -9,7 +9,8 @@ const [toggleMenu, setToggleMenu] = useState(false)
 return (
   <nav className='app__navbar'>
     <div className='app__navbar-logo'>
-      <img src={images.gericht} alt="app logo" />
+      {/* <img src={images.gericht} alt="app logo" /> */}
+      <h1>Emily's Cuisine</h1>
     </div>
     <ul className='app__navbar-links'>
       <li className='p__opensans'><a href='#home'>Home</a></li>

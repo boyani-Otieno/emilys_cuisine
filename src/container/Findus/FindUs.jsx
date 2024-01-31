@@ -9,7 +9,7 @@ const FindUs = () => (
       <SubHeading title="Contact" />
       <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Find Us</h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">Kajiado North, Ngong, Matasia, katana village.</p>
+        <p className="p__opensans">Kajiado North, Ngong, Matasia, kahara village.</p>
         <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Opening Hours</p>
         <p className="p__opensans">Mon - Fri: 8:00 am - 05:00 pm</p>
         <p className="p__opensans">Sat - Sun: 10:00 am - 01:00 pm</p>
